@@ -103,3 +103,5 @@ Pinecone, and major e-commerce search teams) — not just "I used an LLM."
 `hybridsearch.html` is a single static file, so it can be hosted for free on
 GitHub Pages, Netlify, or Vercel with zero backend — just drag-and-drop the
 file. That step is optional and not required to post the carousel itself.
+
+[Live Demo](https://reevaarora05.github.io/signalchain/hybridsearch-2.html)
