@@ -104,4 +104,4 @@ Pinecone, and major e-commerce search teams) — not just "I used an LLM."
 GitHub Pages, Netlify, or Vercel with zero backend — just drag-and-drop the
 file. That step is optional and not required to post the carousel itself.
 
-[Live Demo](https://reevaarora05.github.io/hybridsearch/hybridsearch)
+[Live Demo](https://reevaarora05.github.io/hybridsearch-ai/hybridsearch)
